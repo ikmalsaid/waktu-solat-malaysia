@@ -1,0 +1,57 @@
+/* Custom Styles */
+body {
+  font-family: 'Montserrat', sans-serif;
+}
+.container {
+  margin-top: 25px;
+}
+.prayer-time {
+  background-color: #f9f9f9;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.prayer-time h3 {
+  font-size: 1.5em;
+  margin-bottom: 10px;
+}
+.prayer-time p {
+  font-size: 1.2em;
+  margin-bottom: 0;
+}
+.prayer-time i {
+  color: #00d1b2;
+  margin-right: 10px;
+}
+
+/* form styles */
+.form-container {
+  background-color: #f2f2f2;
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+.form-container label {
+  font-size: 1.2em;
+  margin-bottom: 10px;
+  display: block;
+}
+.form-container select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+.form-container input[type="submit"] {
+  width: 100%;
+  background-color: #4CAF50;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
